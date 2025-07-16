@@ -1,0 +1,1 @@
+Remove session timeout for error (easy) - Implemented a new feature to enhance session timeout.
