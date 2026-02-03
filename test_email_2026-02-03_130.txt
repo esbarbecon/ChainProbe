@@ -1,0 +1,1 @@
+Test email verification for session (simplified) - Implemented a new feature to enhance email verification.
