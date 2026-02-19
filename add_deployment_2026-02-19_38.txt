@@ -1,0 +1,1 @@
+Add deployment process for query (minor) - Implemented a new feature to enhance deployment process.
