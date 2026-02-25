@@ -1,0 +1,7 @@
+[
+  {"amount": 120, "timestamp": 1710000000, "flagged": false},
+  {"amount": 25000, "timestamp": 1710001000, "flagged": true},
+  {"amount": 8000, "timestamp": 1710002000, "flagged": false},
+  {"amount": 15000, "timestamp": 1710003000, "flagged": true},
+  {"amount": 90, "timestamp": 1710004000, "flagged": false}
+]
